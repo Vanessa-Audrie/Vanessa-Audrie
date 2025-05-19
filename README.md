@@ -15,10 +15,10 @@ I'm Vanessa Audrie Tanaka — a beginner developer and curious learner. I enjoy 
 ## 📈 GitHub Stats  
 
 <p align="center">
-<a href="https://github.com/Vanessa-Audrie">
+  <a href="https://github.com/Vanessa-Audrie">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanessa-Audrie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessa-Audrie&layout=compact&theme=algolia"/>
-</a>
+  </a>
 </p>
 
 ---
